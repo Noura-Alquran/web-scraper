@@ -1,4 +1,4 @@
-from web_scraper import __version__
+from scraper import __version__
 
 
 def test_version():
